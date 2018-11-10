@@ -1,4 +1,4 @@
-# Development of an innovative low-cost glove forthumb rehabilitation: design and evaluation
+# Development of an innovative low-cost glove for thumb rehabilitation: design and evaluation
 
 ## Giulia Pompili, Tommaso Lisini Baldi, Davide Barcelli, and Domenico Prattichizzo
 
